@@ -1,6 +1,7 @@
 #
 # system.prop for one+
 #
+#By Team Nocturnal
 
 ro.sf.lcd_density=430
 rild.libpath=/system/vendor/lib/libril-qc-qmi-1.so
